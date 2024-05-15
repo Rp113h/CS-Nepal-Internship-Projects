@@ -1,3 +1,41 @@
+# Employee Management System 
+This is an employee management system. I have used PHP and Laravel framework in making of it. 
+## Features 
+1. Provides interface for registration of new employees.
+2. Enables to view list of all registered employees.
+3. Easily update the required details of registered employees individually from front-end interface.
+4. Provided option to delete employee records if required.
+5. Responsive, interactive and user-friendly interface. 
+
+## Technologies Used -
+**PHP:** The core language for server-side logic.
+**Laravel Framework:** Leveraged for its powerful MVC architecture, simplifying development and enhancing maintainability.
+**HTML/CSS/JavaScript:** Used for creating the front-end interface, ensuring a polished and dynamic user experience.
+
+## Getting Started
+To get started with the Employee Management System, follow these steps:
+1. Ensure PHP is installed on your system. You can download it from [php.net](php.net).
+2. Install composer in your system. Composer is a dependency manager for PHP. Install Composer from [getcomposer.org](getcomposer.org).
+3. Install Laravel installer using command:
+      composer global require laravel/installer
+4. As laravel is installed globally; navigate to any directory where you want to create your project.
+5. Use following command to create a new laravel project.
+      laravel new your-project-name
+6. Once project is created, open in any IDE or code editor of your choice.
+7. Navigate to specific folders and apply changes as you require.
+8. Configure the database connection in the .env file.
+9. Navigate to your project directory in the terminal/command prompt, and run migrations using following command.
+      php artisan migrate 
+10. Similarly once again navigate to project directory, and in terminal run following command to execute your laravel project.
+      php artisan serve
+11. Your Laravel application is now running locally on your machine. By default it is hosted on 'http://127.0.0.1:8000'.
+
+## License
+  This project is licensed under the [MIT License](LICENSE).
+ ## Authors  
+  [RHISHAV PANDEY](https://github.com/Rp113h)
+
+# READ MORE ABOUT LARAVEL APPLICATION
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +102,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
