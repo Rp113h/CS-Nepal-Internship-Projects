@@ -6,8 +6,8 @@ This repository serves as a centralized location for all projects completed duri
 
 ## Projects
 Here are the projects included in this repository:
-- [Employee Management System](link-to-repo)
-- [Phone Number Validation System](link-to-repo)
+- [Employee Management System](https://github.com/Rp113h/Projects-from-CSNepal-Internship/tree/main/Employee%20Management%20System)
+- [Phone Number Validation System](https://github.com/Rp113h/Projects-from-CSNepal-Internship/tree/main/Phone%20Number%20Validation%20System)
 
 
 ## Getting Started
