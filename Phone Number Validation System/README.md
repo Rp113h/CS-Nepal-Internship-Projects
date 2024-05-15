@@ -19,7 +19,7 @@ This is a simple web application developed using PHP, HTML, CSS, and JavaScript 
 5.  Start the local server.
 6.  Open your web browser and navigate to the local server's address (e.g., http://localhost/phone-number-validation).
 7.  You will be directed to the main page of the Phone Number Validation System.
-8.  ## License
-9.  This project is licensed under the [MIT License](LICENSE).
-10.  ## Authors
-11.  [RHISHAV PANDEY](https://github.com/Rp113h)
+ ## License
+  This project is licensed under the [MIT License](LICENSE).
+ ## Authors  
+  [RHISHAV PANDEY](https://github.com/Rp113h)
