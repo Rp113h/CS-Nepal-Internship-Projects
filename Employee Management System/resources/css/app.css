@@ -1,0 +1,33 @@
+.gap{
+	content: '';
+	visibility: hidden;
+	float: right;
+}
+.here{
+	float: right;
+	margin-top: 10%;
+	border: solid;
+	border-color:whitesmoke;
+  	  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+	border-radius: 15px;
+	text-align: center;
+	padding: 11px;
+	font-family: Cambria, serif;
+}
+.parsley-errors-list {
+  list-style-type: none;
+  color: red;
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+}
+
+.parsley-errors-list li {
+  margin-bottom: 5px;
+}
+
+.parsley-error {
+  border-color: red !important;
+  background-color: #ffeeee !important;
+}
