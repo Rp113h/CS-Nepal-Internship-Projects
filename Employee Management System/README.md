@@ -17,18 +17,26 @@ To get started with the Employee Management System, follow these steps:
 1. Ensure PHP is installed on your system. You can download it from [php.net](php.net).
 2. Install composer in your system. Composer is a dependency manager for PHP. Install Composer from [getcomposer.org](getcomposer.org).
 3. Install Laravel installer using command:
+      ```bash
       composer global require laravel/installer
+      ```
 4. As laravel is installed globally; navigate to any directory where you want to create your project.
 5. Use following command to create a new laravel project.
+      ```bash
       laravel new your-project-name
-6. Once project is created, open in any IDE or code editor of your choice.
-7. Navigate to specific folders and apply changes as you require.
-8. Configure the database connection in the .env file.
-9. Navigate to your project directory in the terminal/command prompt, and run migrations using following command.
-      php artisan migrate 
-10. Similarly once again navigate to project directory, and in terminal run following command to execute your laravel project.
-      php artisan serve
-11. Your Laravel application is now running locally on your machine. By default it is hosted on 'http://127.0.0.1:8000'.
+      ```
+7. Once project is created, open in any IDE or code editor of your choice.
+8. Navigate to specific folders and apply changes as you require.
+9. Configure the database connection in the .env file.
+10. Navigate to your project directory in the terminal/command prompt, and run migrations using following command.
+      ```bash
+      php artisan migrate
+      ``` 
+12. Similarly once again navigate to project directory, and in terminal run following command to execute your laravel project.
+    ```bash
+    php artisan serve
+    ```
+14. Your Laravel application is now running locally on your machine. By default it is hosted on 'http://127.0.0.1:8000'.
 
 ## License
   This project is licensed under the [MIT License](LICENSE).
